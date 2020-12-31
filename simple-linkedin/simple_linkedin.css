@@ -1,0 +1,17 @@
+.artdeco-loader__bars,
+.artdeco-dropdown,
+.feed-new-update-pill__new-update-button,
+.feed-right-rail,
+.feed-shared-update-v2,
+.nav-item__badge--doughnut,
+.feed-shared-news-module,
+.feed-follows-module {
+    display: none !important;
+}
+.pv-course-recommendations,
+.pv-profile-pymk__container,
+.pv-browsemap-section__show-cta,
+.pv-browsemap-section,
+.interview-prep-side-rail-promo__questions-list {
+    display: none !important;
+}

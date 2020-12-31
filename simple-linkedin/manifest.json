@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Simple Linkedin",
+  "version": "1.0",
+
+  "description": "Cleans up and removes unnecessary things from Linkedin.",
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.linkedin.com/*"],
+      "js": ["simple_linkedin.js"],
+      "css": ["simple_linkedin.css"]
+    }
+  ]
+}
